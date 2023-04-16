@@ -1,0 +1,70 @@
+<div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+                  </strong>
+                </p>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; 12/Tamat
+                   <br>
+                   Type End :&nbsp; 
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy, Romance, School, Shounen
+                 
+               </p>
+               <a href="###" target="_blank">Download</a>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+                  </strong>
+                </p>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; 12/Tamat
+                   <br>
+                   Type End :&nbsp; 
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy, Romance, Slice of Life,  Historical
+                 
+               </p>
+               
+                 <a href="###" target="_blank">Download</a>
+               
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+                  </strong>
+                </p>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; 12/Tamat
+                   <br>
+                   Type End :&nbsp; 
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy, Romance, Slice of Life
+                 
+               </p>
+               <a href="###" target="_blank">Download</a>
+
+              </div>
+            </div>
+          </div>

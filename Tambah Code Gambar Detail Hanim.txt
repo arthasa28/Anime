@@ -1,0 +1,105 @@
+          <div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/hentai_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+
+                    <center>
+                      <strong style="color:#ff0000;">
+                        PORN 
+                      </strong>
+                      <br>
+                      <br>
+                    </center>
+
+                    
+                  </strong>
+                </p>
+                <br>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; <a href="#porn13">Next</a>
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy ,Hentai
+                 
+               </p>
+               <p>
+                 <a href="###" target="_blank">Download</a>
+               </p>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/hentai_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+
+                    <center>
+                      <strong style="color:#ff0000;">
+                        PORN 
+                      </strong>
+                      <br>
+                      <br>
+                    </center>
+
+                    
+                  </strong>
+                </p>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; <a href="#porn">Next</a>
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy ,Hentai
+                 
+               </p>
+               <br>
+               <p>
+                 <a href="###" target="_blank">Download</a>
+               </p>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <div class="card">
+             <img src="foto/hentai_.jpg" class="card-img-top" alt="Projects">
+              <div class="card-body">
+               <p>
+                  <strong class="card-text">
+                    Wotaku ni Koi wa Muzukashii
+
+                    <center>
+                      <strong style="color:#ff0000;">
+                        PORN 
+                      </strong>
+                      <br>
+                      <br>
+                    </center>
+
+                    
+                  </strong>
+                </p>
+               <p class="card-text">
+                 
+                   Episode &nbsp; : &nbsp; <a href="#porn">Next</a>
+                   <br>
+                   Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy ,Hentai
+
+                 
+               </p>
+		<br>
+               <p>
+                 <a href="###" target="_blank">Download</a>
+               </p>
+
+              </div>
+            </div>
+          </div>
