@@ -1,4 +1,4 @@
-<div class="col-md-4 mb-3">
+	<div class="col-md-4 mb-3">
             <div class="card">
              <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
               <div class="card-body">
@@ -8,7 +8,10 @@
                   </strong>
                 </p>
                <p class="card-text">
-                 
+                 <strong>
+                      <a href="##" target="_blank">MyAnimeList</a>
+                  </strong>
+                  <br>
                    Episode &nbsp; : &nbsp; 12/Tamat
                    <br>
                    Type End :&nbsp; 
@@ -16,7 +19,9 @@
                    Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy, Romance, School, Shounen
                  
                </p>
-               <a href="###" target="_blank">Download</a>
+               <p>
+		  <a href="###" target="_blank">Download</a>
+		</p>
 
               </div>
             </div>
@@ -31,7 +36,10 @@
                   </strong>
                 </p>
                <p class="card-text">
-                 
+                 <strong>
+                      <a href="##" target="_blank">MyAnimeList</a>
+                  </strong>
+                  <br>
                    Episode &nbsp; : &nbsp; 12/Tamat
                    <br>
                    Type End :&nbsp; 
@@ -40,7 +48,9 @@
                  
                </p>
                
-                 <a href="###" target="_blank">Download</a>
+               <p>
+		  <a href="###" target="_blank">Download</a>
+		</p>
                
               </div>
             </div>
@@ -55,7 +65,10 @@
                   </strong>
                 </p>
                <p class="card-text">
-                 
+                 <strong>
+                      <a href="##" target="_blank">MyAnimeList</a>
+                  </strong>
+                  <br>
                    Episode &nbsp; : &nbsp; 12/Tamat
                    <br>
                    Type End :&nbsp; 
@@ -63,7 +76,9 @@
                    Genre   &nbsp; &nbsp; &nbsp;:  &nbsp; <br>Comedy, Romance, Slice of Life
                  
                </p>
-               <a href="###" target="_blank">Download</a>
+               <p>
+		  <a href="###" target="_blank">Download</a>
+		</p>
 
               </div>
             </div>
