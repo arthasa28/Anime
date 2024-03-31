@@ -1,6 +1,6 @@
 	<div class="col-md-4 mb-3">
             <div class="card">
-             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+             <img src="foto/foto_.jpg" class="card-img-top foto-thumnail" alt="Projects">
               <div class="card-body">
                <p>
                   <strong class="card-text">
@@ -28,7 +28,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+             <img src="foto/foto_.jpg" class="card-img-top foto-thumnail" alt="Projects">
               <div class="card-body">
                <p>
                   <strong class="card-text">
@@ -57,7 +57,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-             <img src="foto/foto_.jpg" class="card-img-top" alt="Projects">
+             <img src="foto/foto_.jpg" class="card-img-top foto-thumnail" alt="Projects">
               <div class="card-body">
                <p>
                   <strong class="card-text">
