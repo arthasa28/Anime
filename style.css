@@ -134,10 +134,12 @@ ul{
     width: 100%;
 }
 }
-/*===== CSS Foto 205px Thumnail 
+
+/*=== Thumnail Foto
 .foto-thumnail{
-	height: 205px;
+	width: 100%;
+  height: auto;
 }
-====*/
+===*/
 
 /*========== END ==========*/
